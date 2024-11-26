@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-LOG_FILE="LOG_FILE="/var/log/system_health.log"
+LOG_FILE="/var/log/system_health.log"
 EMAIL_ALERT="youremail@example.com"
 CPU_THRESHOLD=80  # in percentage
 MEMORY_THRESHOLD=80  # in percentage
