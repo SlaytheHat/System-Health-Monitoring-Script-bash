@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 # Configuration
@@ -65,4 +64,3 @@ if [[ "$1" == "--live" ]]; then
 else
     monitor_system
 fi
-```
